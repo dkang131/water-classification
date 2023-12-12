@@ -1,7 +1,7 @@
 # Water Classification Project
-Author: Darren Kang Wan Chee (https://www.linkedin.com/in/darren-kang-wan-chee/)
+Author: [Darren Kang Wan Chee](https://www.linkedin.com/in/darren-kang-wan-chee/)
 
-Data Source: https://www.kaggle.com/datasets/mssmartypants/water-quality
+[Data Source](https://www.kaggle.com/datasets/mssmartypants/water-quality)
 
 This project is an assignment of the Statistical Data Analysis course which the author took in his undergraduate studies in the Department of Statistics, Institut Teknologi Sepuluh Nopember
 
